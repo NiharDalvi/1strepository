@@ -1,2 +1,5 @@
 print ("First Python file")
 print ("Hello Welcome")
+print("Enter your name")
+Name=input()
+print("Hello " +Name)
